@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import copy
-
+import scipy
 # DMC parameters
 dtau = 5.
 N_0 = 5000
